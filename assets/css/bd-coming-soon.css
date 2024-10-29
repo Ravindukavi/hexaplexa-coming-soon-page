@@ -103,7 +103,7 @@ p {
   height: 40px;
   border-radius: 50%;
   background-color: #ffffff;
-  color: #000000;
+  color: #0d6fb2;
   margin-right: 16px;
   transition: all 0.3s ease-in-out;
 }
@@ -114,7 +114,7 @@ p {
 
 .footer-social-links .social-link:hover {
   text-decoration: none;
-  background-color: #000000;
+  background-color: #0091C8;
   color: #ffffff;
 }
 
