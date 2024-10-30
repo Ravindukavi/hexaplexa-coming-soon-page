@@ -66,6 +66,7 @@ body::before {
 
 .page-title {
   font-size: 60px;
+  margin-right: 16px;
   font-weight: bold;
   color: #468aae;
   margin-bottom: 6px;
